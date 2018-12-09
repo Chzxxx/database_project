@@ -1,2 +1,1 @@
-# bidding website
-# react.js/node.js/firebase
+# bidding website(react.js/node.js/firebase)
